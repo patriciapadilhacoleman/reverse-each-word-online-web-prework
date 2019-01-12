@@ -10,6 +10,6 @@ def reverse_each_word(string)
     
   end
   
-  nstring.strip
+  arr.join
   
 end

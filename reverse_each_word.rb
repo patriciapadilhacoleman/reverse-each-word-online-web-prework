@@ -6,7 +6,7 @@ def reverse_each_word(string)
   
   nstring = ""
   
-  arr = arr.collect {|word| word.reverse}
+  narr = arr.collect {|word| word.reverse}
   
   narr.join(" ")
   
